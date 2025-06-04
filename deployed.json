@@ -1,0 +1,6 @@
+{
+  "network": "baseTestnet",
+  "deployer": "0xb6dBfEfe3943eFdEd7B0e8Dca0B746A79534bc4B",
+  "partyVault": "0x701F786776134505126B0A08A20F0B6620D4f4cf",
+  "lootNFT": "0xcB25BFFA752E9b21aEDD3116A1E1dB2585Fa1E75"
+}
