@@ -1,9 +1,10 @@
-{
-  "name": "ChainQuest Loot",
-  "description": "A limited-edition loot NFT from the ChainQuest Buildathon.",
-  "image": "ipfs://<YOUR_IMAGE_CID>",
-  "attributes": [
-    { "trait_type": "Rarity", "value": "Common" },
-    { "trait_type": "Power",  "value": 10 }
-  ]
-}
+ {
+   "name": "ChainQuest Loot",
+   "description": "A limited-edition loot NFT from the ChainQuest Buildathon.",
+-  "image": "ipfs://<YOUR_IMAGE_CID>",
++  "image": "https://raw.githubusercontent.com/MrMuyiwa/chainquest/main/metadata/loot.png",
+   "attributes": [
+     { "trait_type": "Rarity", "value": "Common" },
+     { "trait_type": "Power",  "value": 10 }
+   ]
+ }
