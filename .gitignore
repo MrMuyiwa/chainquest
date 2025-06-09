@@ -1,0 +1,9 @@
+# Hardhat build
+artifacts/
+cache/
+
+# Dependencies
+node_modules/
+
+# Environment
+.env
